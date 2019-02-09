@@ -1,5 +1,8 @@
 Code-Examples
 
+Aster'roid-Rage.zip
+-Executable of "Aster'roid-Rage", a game built from groud up using C++
+
 bouncer.cpp
 -Written for CS 3505: Software Practice II, University of Utah
 -Command line application that programmatically generates the 
@@ -21,8 +24,8 @@ MAT562_NeuralNetwork.py
 	for approximating a function: f(x) = x^2
 
 WeaponScript.cs  
-Written for FILM 3710: Traditional Game Development, University of Utah
+-Written for FILM 3710: Traditional Game Development, University of Utah
 -Unity component script for aiming and firing the player's weapon in "Redstar"
 
 Redstar_PC.zip
-The full "Redstar" game for PC
+-The full "Redstar" game for PC
