@@ -23,6 +23,11 @@ MAT562_NeuralNetwork.py
 -Implements a single layer neural network and gradient descent learning
 	for approximating a function: f(x) = x^2
 
+NaiveBayes.zip
+-Written for MAT 599: Machine Learning, DigiPen Institute of Technology
+-Contains implementation of Naive Bayes model for classifying spam messages
+-Contains data sets for training and testing the algorithm
+
 WeaponScript.cs  
 -Written for FILM 3710: Traditional Game Development, University of Utah
 -Unity component script for aiming and firing the player's weapon in "Redstar"
